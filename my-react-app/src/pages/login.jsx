@@ -8,7 +8,7 @@ const LoginPage = (props) => {
       <FormLogin />
       <p className="text-sm mt-3 text-center">
         Don't have an account?{" "}
-        <Link to="/register" className="font-bold text-teal-600">
+        <Link to="/register" className="font-bold text-blue-600">
           Sign Up here..
         </Link>
       </p>
